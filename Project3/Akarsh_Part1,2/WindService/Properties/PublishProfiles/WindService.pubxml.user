@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Akarsh\Desktop\ASU\Summer sem\DSOD\Assignments\Assignment - 3\Published\WindService</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WindService.dll">
+      <publishTime>06/21/2015 14:15:03</publishTime>
+    </File>
+    <File Include="bin/WindService.XmlSerializers.dll">
+      <publishTime>06/21/2015 14:15:03</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>06/21/2015 14:15:04</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>06/14/2015 15:29:53</publishTime>
+    </File>
+    <File Include="Web References/WindAPI/Reference.map">
+      <publishTime>06/14/2015 15:40:58</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/21/2015 14:15:03</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

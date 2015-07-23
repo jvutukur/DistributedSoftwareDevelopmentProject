@@ -1,0 +1,6 @@
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Top10WordsService\Services\bin\Services.dll.config
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Top10WordsService\Services\bin\Services.dll
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Top10WordsService\Services\bin\Services.pdb
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Top10WordsService\Services\obj\Debug\Top10WordsService.csprojResolveAssemblyReference.cache
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Top10WordsService\Services\obj\Debug\Services.dll
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Top10WordsService\Services\obj\Debug\Services.pdb

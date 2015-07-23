@@ -1,0 +1,10 @@
+INR-Indian Rupee
+JPY-Japanese Yen
+GBP-British Pound
+CHF-Swiss Franc
+CAD-Canadian Dollar
+AUD-Australian Dollar
+ZAR-South African Rand
+KYD-Cayman Islands Dollar
+EUR-Euro
+CNY-Chinese Yuan

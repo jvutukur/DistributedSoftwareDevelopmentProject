@@ -1,0 +1,7 @@
+C:\Users\Akarsh\Documents\Visual Studio 2013\Projects\WeatherApplication\WindService\bin\WindService.dll.config
+C:\Users\Akarsh\Documents\Visual Studio 2013\Projects\WeatherApplication\WindService\bin\WindService.dll
+C:\Users\Akarsh\Documents\Visual Studio 2013\Projects\WeatherApplication\WindService\bin\WindService.XmlSerializers.dll
+C:\Users\Akarsh\Documents\Visual Studio 2013\Projects\WeatherApplication\WindService\bin\WindService.pdb
+C:\Users\Akarsh\Documents\Visual Studio 2013\Projects\WeatherApplication\WindService\obj\Release\WindService.dll
+C:\Users\Akarsh\Documents\Visual Studio 2013\Projects\WeatherApplication\WindService\obj\Release\WindService.pdb
+C:\Users\Akarsh\Documents\Visual Studio 2013\Projects\WeatherApplication\WindService\obj\Release\WindService.XmlSerializers.dll

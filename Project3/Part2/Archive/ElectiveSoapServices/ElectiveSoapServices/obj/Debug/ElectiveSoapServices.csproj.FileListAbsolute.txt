@@ -1,0 +1,6 @@
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\ElectiveSoapServices\ElectiveSoapServices\bin\ElectiveSoapServices.dll.config
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\ElectiveSoapServices\ElectiveSoapServices\bin\ElectiveSoapServices.dll
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\ElectiveSoapServices\ElectiveSoapServices\bin\ElectiveSoapServices.pdb
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\ElectiveSoapServices\ElectiveSoapServices\obj\Debug\ElectiveSoapServices.csprojResolveAssemblyReference.cache
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\ElectiveSoapServices\ElectiveSoapServices\obj\Debug\ElectiveSoapServices.dll
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\ElectiveSoapServices\ElectiveSoapServices\obj\Debug\ElectiveSoapServices.pdb
