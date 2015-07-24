@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Persons.xsl"?>
+<Persons>
+  <Person>
+    <Name>
+      <First>John</First>
+      <Last>Doe</Last>
+    </Name>
+    <Credentials>
+      <Id>jdoe</Id>
+      <Password Encryption="yes">xyz</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650000</Work>
+      <Cell Provider="TMobile">4801234567</Cell>
+    </Phone>
+    <Category>Family</Category>
+  </Person>
+  <Person>
+    <Name>
+      <First>Satya</First>
+      <Last>P</Last>
+    </Name>
+    <Credentials>
+      <Id>sp</Id>
+      <Password Encryption="no">xyz</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650001</Work>
+      <Cell>4801234569</Cell>
+    </Phone>
+    <Category>Family</Category>
+  </Person>
+  <Person>
+    <Name>
+      <First>San</First>
+      <Last>S</Last>
+    </Name>
+    <Credentials>
+      <Id>sans</Id>
+      <Password Encryption="yes">pqr</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650003</Work>
+      <Cell Provider="ATNT">4801234569</Cell>
+    </Phone>
+    <Category>Family</Category>
+  </Person>
+  <Person>
+    <Name>
+      <First>Sai</First>
+      <Last>A</Last>
+    </Name>
+    <Credentials>
+      <Id>saia</Id>
+      <Password Encryption="yes">saia</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650008</Work>
+      <Cell Provider="TMobile">4801434567</Cell>
+    </Phone>
+    <Category>Family</Category>
+  </Person>
+  <Person>
+    <Name>
+      <First>Ramu</First>
+      <Last>M</Last>
+    </Name>
+    <Credentials>
+      <Id>ramm</Id>
+      <Password Encryption="no">ran</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650000</Work>
+      <Cell>4801234567</Cell>
+    </Phone>
+    <Category>Family</Category>
+  </Person>
+
+  <Person>
+    <Name>
+      <First>Arjun</First>
+      <Last>P</Last>
+    </Name>
+    <Credentials>
+      <Id>arjun</Id>
+      <Password Encryption="yes">palwai</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650000</Work>
+      <Cell>4801234567</Cell>
+    </Phone>
+    <Category>Friend</Category>
+  </Person>
+  <Person>
+    <Name>
+      <First>Michel</First>
+      <Last>V</Last>
+    </Name>
+    <Credentials>
+      <Id>mic</Id>
+      <Password Encryption="no">velayudham</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650000</Work>
+      <Cell Provider="TMobile">4801234567</Cell>
+    </Phone>
+    <Category>Friend</Category>
+  </Person>
+  <Person>
+    <Name>
+      <First>Gopala</First>
+      <Last>Gopala</Last>
+    </Name>
+    <Credentials>
+      <Id>Gopala</Id>
+      <Password Encryption="no">gopi</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650000</Work>
+      <Cell>4801234567</Cell>
+    </Phone>
+    <Category>Friend</Category>
+  </Person>
+  <Person>
+    <Name>
+      <First>Sanjay</First>
+      <Last>s</Last>
+    </Name>
+    <Credentials>
+      <Id>sanjay</Id>
+      <Password Encryption="yes">sahul</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650000</Work>
+      <Cell Provider="TMobile">4801234567</Cell>
+    </Phone>
+    <Category>Friend</Category>
+  </Person>
+  <Person>
+    <Name>
+      <First>Prabha</First>
+      <Last>m</Last>
+    </Name>
+    <Credentials>
+      <Id>prabha</Id>
+      <Password Encryption="no">dfasf</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650000</Work>
+      <Cell Provider="TMobile">4801234567</Cell>
+    </Phone>
+    <Category>Friend</Category>
+  </Person>
+
+  <Person>
+    <Name>
+      <First>vijay</First>
+      <Last>k</Last>
+    </Name>
+    <Credentials>
+      <Id>vijayk</Id>
+      <Password Encryption="yes">xyz</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650000</Work>
+      <Cell>4801234567</Cell>
+    </Phone>
+    <Category>Work</Category>
+  </Person>
+  <Person>
+    <Name>
+      <First>John</First>
+      <Last>V</Last>
+    </Name>
+    <Credentials>
+      <Id>johnv</Id>
+      <Password Encryption="no">abc</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650000</Work>
+      <Cell Provider="TMobile">4801234567</Cell>
+    </Phone>
+    <Category>Work</Category>
+  </Person>
+  <Person>
+    <Name>
+      <First>Swaroop</First>
+      <Last>R</Last>
+    </Name>
+    <Credentials>
+      <Id>swaroopr</Id>
+      <Password Encryption="yes">pqr</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650000</Work>
+      <Cell>4801234567</Cell>
+    </Phone>
+    <Category>Work</Category>
+  </Person>
+  <Person>
+    <Name>
+      <First>Rinisha</First>
+      <Last>R</Last>
+    </Name>
+    <Credentials>
+      <Id>rinr</Id>
+      <Password Encryption="yes">sha</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650000</Work>
+      <Cell Provider="TMobile">4801234567</Cell>
+    </Phone>
+    <Category>Work</Category>
+  </Person>
+  <Person>
+    <Name>
+      <First>Reshma</First>
+      <Last>R</Last>
+    </Name>
+    <Credentials>
+      <Id>resr</Id>
+      <Password Encryption="no">hma</Password>
+    </Credentials>
+    <Phone>
+      <Work>4809650000</Work>
+      <Cell>4801234567</Cell>
+    </Phone>
+    <Category>Work</Category>
+  </Person>
+
+</Persons>

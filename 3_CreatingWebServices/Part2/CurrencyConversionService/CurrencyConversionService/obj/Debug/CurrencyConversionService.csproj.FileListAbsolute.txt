@@ -1,0 +1,12 @@
+c:\users\eswar\documents\visual studio 2013\Projects\CurrencyConversionService\CurrencyConversionService\obj\Debug\CurrencyConversionService.csprojResolveAssemblyReference.cache
+c:\users\eswar\documents\visual studio 2013\Projects\CurrencyConversionService\CurrencyConversionService\bin\CurrencyConversionService.dll.config
+c:\users\eswar\documents\visual studio 2013\Projects\CurrencyConversionService\CurrencyConversionService\bin\CurrencyConversionService.dll
+c:\users\eswar\documents\visual studio 2013\Projects\CurrencyConversionService\CurrencyConversionService\bin\CurrencyConversionService.pdb
+c:\users\eswar\documents\visual studio 2013\Projects\CurrencyConversionService\CurrencyConversionService\obj\Debug\CurrencyConversionService.dll
+c:\users\eswar\documents\visual studio 2013\Projects\CurrencyConversionService\CurrencyConversionService\obj\Debug\CurrencyConversionService.pdb
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\CurrencyConversionService\CurrencyConversionService\bin\CurrencyConversionService.dll.config
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\CurrencyConversionService\CurrencyConversionService\bin\CurrencyConversionService.dll
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\CurrencyConversionService\CurrencyConversionService\bin\CurrencyConversionService.pdb
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\CurrencyConversionService\CurrencyConversionService\obj\Debug\CurrencyConversionService.csprojResolveAssemblyReference.cache
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\CurrencyConversionService\CurrencyConversionService\obj\Debug\CurrencyConversionService.dll
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\CurrencyConversionService\CurrencyConversionService\obj\Debug\CurrencyConversionService.pdb
