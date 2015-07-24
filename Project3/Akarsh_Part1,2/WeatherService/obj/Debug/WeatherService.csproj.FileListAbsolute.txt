@@ -1,6 +1,0 @@
-C:\Users\Akarsh\Documents\Visual Studio 2013\Projects\WeatherApplication\WeatherService\bin\WeatherService.dll.config
-C:\Users\Akarsh\Documents\Visual Studio 2013\Projects\WeatherApplication\WeatherService\bin\WeatherService.dll
-C:\Users\Akarsh\Documents\Visual Studio 2013\Projects\WeatherApplication\WeatherService\bin\WeatherService.pdb
-C:\Users\Akarsh\Documents\Visual Studio 2013\Projects\WeatherApplication\WeatherService\obj\Debug\WeatherService.csprojResolveAssemblyReference.cache
-C:\Users\Akarsh\Documents\Visual Studio 2013\Projects\WeatherApplication\WeatherService\obj\Debug\WeatherService.dll
-C:\Users\Akarsh\Documents\Visual Studio 2013\Projects\WeatherApplication\WeatherService\obj\Debug\WeatherService.pdb

@@ -1,5 +1,0 @@
-C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\ValidateCreditCardNumberService\ValidateCreditCardNumberService\bin\ValidateCreditCardNumberService.dll.config
-C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\ValidateCreditCardNumberService\ValidateCreditCardNumberService\bin\ValidateCreditCardNumberService.dll
-C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\ValidateCreditCardNumberService\ValidateCreditCardNumberService\bin\ValidateCreditCardNumberService.pdb
-C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\ValidateCreditCardNumberService\ValidateCreditCardNumberService\obj\Release\ValidateCreditCardNumberService.dll
-C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project3\Part2\ValidateCreditCardNumberService\ValidateCreditCardNumberService\obj\Release\ValidateCreditCardNumberService.pdb
