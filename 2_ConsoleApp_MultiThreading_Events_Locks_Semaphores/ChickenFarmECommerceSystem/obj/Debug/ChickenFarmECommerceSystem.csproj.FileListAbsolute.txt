@@ -1,0 +1,6 @@
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project2\ChickenFarmECommerceSystem\ChickenFarmECommerceSystem\ChickenFarmECommerceSystem\bin\Debug\ChickenFarmECommerceSystem.exe.config
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project2\ChickenFarmECommerceSystem\ChickenFarmECommerceSystem\ChickenFarmECommerceSystem\bin\Debug\ChickenFarmECommerceSystem.exe
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project2\ChickenFarmECommerceSystem\ChickenFarmECommerceSystem\ChickenFarmECommerceSystem\bin\Debug\ChickenFarmECommerceSystem.pdb
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project2\ChickenFarmECommerceSystem\ChickenFarmECommerceSystem\ChickenFarmECommerceSystem\obj\Debug\ChickenFarmECommerceSystem.exe
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project2\ChickenFarmECommerceSystem\ChickenFarmECommerceSystem\ChickenFarmECommerceSystem\obj\Debug\ChickenFarmECommerceSystem.pdb
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project2\ChickenFarmECommerceSystem\ChickenFarmECommerceSystem\ChickenFarmECommerceSystem\obj\Debug\ChickenFarmECommerceSystem.csprojResolveAssemblyReference.cache
