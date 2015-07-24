@@ -1,0 +1,6 @@
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project1\1_TempConversionWCFServiceProject\1_TempConversionWCFServiceProject\bin\1_TempConversionWCFServiceProject.dll.config
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project1\1_TempConversionWCFServiceProject\1_TempConversionWCFServiceProject\bin\1_TempConversionWCFServiceProject.dll
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project1\1_TempConversionWCFServiceProject\1_TempConversionWCFServiceProject\bin\1_TempConversionWCFServiceProject.pdb
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project1\1_TempConversionWCFServiceProject\1_TempConversionWCFServiceProject\obj\Debug\1_TempConversionWCFServiceProject.csprojResolveAssemblyReference.cache
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project1\1_TempConversionWCFServiceProject\1_TempConversionWCFServiceProject\obj\Debug\1_TempConversionWCFServiceProject.dll
+C:\Users\eswar\Google Drive\Programs\CSE 598 DSOD\Project1\1_TempConversionWCFServiceProject\1_TempConversionWCFServiceProject\obj\Debug\1_TempConversionWCFServiceProject.pdb
